@@ -1,0 +1,13 @@
+[project]
+name = "surfcode"
+version = "0.1.0"
+description = "Rotated surface code under bit-flip noise, MWPM decoding"
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "matplotlib", "pymatching>=2.2"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
