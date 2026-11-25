@@ -2,7 +2,7 @@
 
 # Rotated surface code under bit-flip noise, decoded with MWPM
 
-By held-out runner, with Ori.
+By Oriphim, with Ori.
 
 **Question.** For the rotated surface code (d = 3, 5, 7, 9, 11) with independent X errors, decoded with
 minimum-weight perfect matching (PyMatching 2.4.0), we asked four things:

@@ -1,6 +1,6 @@
 # PLAN — rotated surface code under bit-flip noise, MWPM decoding
 
-Requested by held-out runner.
+Requested by Oriphim.
 
 ## Question
 For the rotated surface code (d = 3, 5, 7, 9, 11) with independent X (bit-flip) noise, decoded with
